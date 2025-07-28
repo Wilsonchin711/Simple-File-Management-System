@@ -94,7 +94,3 @@ Frontend will run at: `http://localhost:5173`
 - **Database**: MySQL
 
 ---
-
-## 📖 License
-
-MIT — Free to use and modify.
